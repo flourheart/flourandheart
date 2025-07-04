@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flour & Heart — No Refined Sugar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <img src="images/label.png" alt="Flour and Heart Label" class="label" />
+    <h1>Flour & Heart</h1>
+    <p class="tagline">No Refined Sugar – Light Peanut Cake</p>
+  </header>
+
+  <section class="section">
+    <h2>🥜 Ingredients</h2>
+    <ul class="ingredients">
+      <li>✅ Lightly Roasted Peanuts</li>
+      <li>✅ Natural Date Sugar</li>
+      <li>✅ Fresh Eggs</li>
+      <li>✅ Wheat Flour <small>(Not Gluten-Free)</small></li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>📦 Packaging Options</h2>
+    <ul>
+      <li>🎁 Mini Gift Box</li>
+      <li>🪟 Transparent Window Pouch</li>
+      <li>📤 Sliding Tray Box</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>💛 Why Choose Us?</h2>
+    <p>We believe healthy can still be delicious. Our cakes are made without refined sugar — only natural ingredients, baked with love. Light, safe, and joyful in every bite.</p>
+  </section>
+
+  <section class="section">
+    <h2>🧾 Product Info</h2>
+    <p>⏳ Shelf Life: 6 Months</p>
+    <p>📅 Best Before: <em>Write Production Date</em></p>
+  </section>
+
+  <section class="section">
+    <h2>📲 Recipes & Info</h2>
+    <img src="images/qrcode.png" alt="QR Code" class="qr" />
+    <br />
+    <a href="https://www.notion.so/Flour-Heart-No-Refined-Sugar-21fc9da66e1a80ae995bf9e78ee3dd57" class="button">See Recipes</a>
+  </section>
+
+  <footer class="footer">
+    <p>📞 0553093672 &nbsp; | &nbsp; 📷 Instagram: <a href="https://instagram.com/flour_heart">@flour_heart</a></p>
+  </footer>
+</body>
+</html>
